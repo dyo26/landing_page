@@ -1,5 +1,6 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
 }
 
 .header {
@@ -75,4 +76,19 @@ a:link{
     margin-top: 3px;
     margin-left: 3px;
 
+}
+
+.title_container {
+    background-color: #0FA790;
+    height: 800px;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 80px;
+    padding-top: 80px;
+}
+
+.title_text {
+    display: flex;
+    justify-content: center;
 }
